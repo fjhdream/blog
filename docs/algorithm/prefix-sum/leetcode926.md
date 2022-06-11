@@ -17,7 +17,7 @@
 ## 题解答案
 
 ``` rust
-    impl Solution {
+impl Solution {
     pub fn min_flips_mono_incr(s: String) -> i32 {
         let s_chars = s.chars().collect::<Vec<_>>();
         let n = s_chars.len();
