@@ -1,2 +1,2 @@
 * [Home](/)
-* [Algorithm](/algorithm/algorithm.md)
+* [Algorithm](/algorithm/README.md)
