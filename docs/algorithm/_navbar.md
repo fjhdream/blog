@@ -1,1 +1,1 @@
-* [Leetcode](/leetcode/leetcode.md)
+* [Greedy](/algorithm/greedy/greedy.md)

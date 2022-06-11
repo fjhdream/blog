@@ -1,2 +1,0 @@
-# blog
-fjhdream's blog
