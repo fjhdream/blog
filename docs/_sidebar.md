@@ -9,6 +9,8 @@
       * [Leetcode926](algorithm/dynamic-programming/leetcode926.md)
 
 * [编程语言](programming-language/README.md)
+  * [Java](programming-language/java/README.md)
+    * [编译JDK](programming-language/java/compileJDK.md)
 
 * [学习成长](grow-up/README.md)
   * [学习方法](grow-up/learn-method/README.md)
