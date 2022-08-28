@@ -4,7 +4,7 @@
 相比传统的死记硬背, 费曼学习法注重输出代替输入, 能够有效的提高学习效能, 知识留存率也非常高.
 希望看到此博客的读者能一起学习体会这种独特的学习方式.
 
-[重要步骤](_asserts/feynmant-technique.drawio ':include :type=code')
+[重要步骤](./_asserts/feynmant-technique.drawio ':include :type=code')
 
 以上是费曼学习法的重要步骤.
 
