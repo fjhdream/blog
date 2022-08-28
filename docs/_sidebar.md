@@ -16,5 +16,4 @@
   * [DDD](system-design/ddd/README.md)
 
 * [学习成长](grow-up/README.md)
-  * [学习方法](grow-up/learn-method/README.md)
-    * [费曼学习法](grow-up/learn-method/feynman-technique.md)
+  * [费曼学习法](grow-up/feynman-technique.md)
