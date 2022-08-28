@@ -6,3 +6,8 @@
 ## 学习资源
 
 [system-design-primer](https://github.com/donnemartin/system-design-primer/blob/master/README.md)
+
+## [领域驱动设计](system-design/ddd/README.md)
+
+分享领域驱动设计学习心得
+
