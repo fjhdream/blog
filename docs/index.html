@@ -75,6 +75,12 @@
             },
           },
         },
+        timeUpdater: {
+          text: ">Last update time: {docsify-updated}",
+          formatUpdated: "{YYYY}/{MM}/{DD}",
+          whereToPlace: "top", // "top" or "bottom", default to "bottom"
+        },
+        busuanzi: true,
       };
     </script>
     <!-- Docsify v4 -->
@@ -111,5 +117,9 @@
     <script>
       mermaid.initialize({ startOnLoad: true });
     </script>
+    <!-- update time plugin-->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
+    <!-- busuanzi plugin satisfy visit data -->
+    <script src="https://unpkg.com/docsify-busuanzi@1.0.1/dist/docsify-busuanzi.min.js"></script>
   </body>
 </html>
