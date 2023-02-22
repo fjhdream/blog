@@ -15,10 +15,10 @@
       title="docsify-darklight-theme"
       type="text/css"
     />
-    <!-- sidrbar arrow -->
+    <!-- sidebar file -->
     <link
       rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css"
+      href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar-folder.min.css"
     />
   </head>
   <body>
@@ -30,6 +30,7 @@
         loadSidebar: true,
         loadNavbar: true,
         mergeNavbar: true,
+        autoHeader: true,
         alias: {
           "/.*/_sidebar.md": "/_sidebar.md",
           "/.*/_navbar.md": "/_navbar.md",
@@ -81,6 +82,16 @@
           whereToPlace: "top", // "top" or "bottom", default to "bottom"
         },
         busuanzi: true,
+        toc: {
+          scope: ".markdown-section",
+          headings: "h1, h2, h3, h4, h5, h6",
+          title: "Table of Contents",
+        },
+        progress: {
+          position: "top",
+          color: "var(--theme-color,#42b983)",
+          height: "3px",
+        },
       };
     </script>
     <!-- Docsify v4 -->
@@ -119,7 +130,13 @@
     </script>
     <!-- update time plugin-->
     <script src="https://cdn.jsdelivr.net/npm/docsify-updated/src/time-updater.min.js"></script>
-    <!-- busuanzi plugin satisfy visit data -->
-    <script src="https://unpkg.com/docsify-busuanzi@1.0.1/dist/docsify-busuanzi.min.js"></script>
+    <!-- google analytics -->
+    <script
+      src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"
+      data-ga="UA-XXXXX-Y"
+    ></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+    <!-- read progress -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
   </body>
 </html>
