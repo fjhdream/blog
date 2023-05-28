@@ -20,4 +20,3 @@
 1. 放置jks文件到对应目录(目录可以自定义) ![](./attachments/Pasted%20image%2020230528134448.png)
 2. 配置application.properties ![](./attachments/Pasted%20image%2020230528134548.png)
 3. 启动项目 ![](./attachments/Pasted%20image%2020230528134623.png)这里日志显示已经开启https了
-4. ![](attachments/ConfigSSL.png)
