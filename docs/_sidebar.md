@@ -10,14 +10,11 @@
 
 * [编程](programming/README.md)
   * [Java](programming/java/README.md)
-    * [Spring SSL配置](programming/java/spring/ConfigSSL.md)
+    * [Spring SSL配置](programming/java/spring/SpringBoot%20ConfigSSL.md)
     * [Spring Http2配置](programming/java/spring/ConfigHttp2.md)
-    * [编译JDK](programming/java/compileJDK.md)
+    * [编译JDK](programming/java/编译JDK小试.md)
   * [Redis](programming/redis/README.md)
-    * [Redis概览](programming/redis/overview.md)
-
-* [系统设计](system-design/README.md)
-  * [DDD](system-design/ddd/README.md)
+    * [Redis概览](programming/redis/Redis线程模型与AOF机制.md)
 
 * [学习成长](grow-up/README.md)
   * [费曼学习法](grow-up/feynman-technique.md)

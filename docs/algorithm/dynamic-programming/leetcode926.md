@@ -1,3 +1,14 @@
+---
+title: leetcode926
+categories:
+  - Leetcode
+tags:
+  - 算法
+halo:
+  site: http://205.234.201.223:8090
+  name: e6e74128-d03f-4652-ae95-f40b47d068ed
+  publish: false
+---
 # leetcode926
 [Leecode926](https://leetcode.cn/problems/flip-string-to-monotone-increasing/) 将字符串翻转到单调递增
 

@@ -1,3 +1,15 @@
+---
+title: leetcode1414
+categories:
+  - Leetcode
+tags:
+  - 算法
+halo:
+  site: http://205.234.201.223:8090
+  name: 70a17b7d-0a34-410c-9718-a6467b29a4e1
+  publish: true
+cssclasses:
+---
 # Leetcode1414
 
 使用贪心算法来进行题解, 证明较难
